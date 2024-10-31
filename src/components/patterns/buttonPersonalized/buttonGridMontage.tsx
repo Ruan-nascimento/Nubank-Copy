@@ -5,7 +5,7 @@ import { faChartLine, faCloudDownloadAlt, faExchangeAlt, faMobileAlt, faMoneyBil
 
 export const ButtonGridMontage = () => {
   return(
-    <div className="no-scrollbar flex gap-4 overflow-auto">
+    <div className="no-scrollbar flex gap-4 overflow-auto min-h-32 mt-4">
       
       <Wrapper>
         <Patterns.button.button>

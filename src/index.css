@@ -10,3 +10,7 @@ body {
 .no-scrollbar::-webkit-scrollbar{
   display: none;
 }
+
+.in-moment{
+  @apply bg-RoxoPrincipal/15
+}
