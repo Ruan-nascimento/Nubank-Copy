@@ -12,7 +12,7 @@ function App() {
   const [show, setShow] = useState(false)
 
   return (
-    <section className="flex flex-col items-center justify-center h-screen w-screen relative">
+    <section className="flex flex-col items-center justify-center h-dvh w-dvh relative">
       <Header show={show} setShow={setShow}/>
       
       <Patterns.wrapper className="flex flex-col gap-3">
