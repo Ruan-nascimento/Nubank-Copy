@@ -5,7 +5,7 @@ Uma recriação visual do app do Nubank feita para aprimorar habilidades em Reac
 ## 📸 Prévia
 Veja abaixo uma imagem de como está ficando o design (exemplo):
 
-![Nubank Online](./path/to/your/image.png)
+![Nubank Online](https://ruan-nascimento.github.io/Nubank-Copy/)
 
 ## 🛠️ Tecnologias
 - **React JS** ⚛️
