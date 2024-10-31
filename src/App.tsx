@@ -22,7 +22,7 @@ function App() {
         <Patterns.button.grid/>
 
         <Patterns.button.button
-        className="rounded-lg max-w-full w-full m-auto mt-4 flex justify-start px-8 gap-6 min-h-16 h-16"
+        className="rounded-lg max-w-full w-full m-auto mb-4 flex justify-start px-8 gap-6 min-h-16 h-16"
         >
           <Patterns.button.iconFa icon={faCreditCard}/>
           <Patterns.button.label text="Meus Cartões" className="max-w-full"/>
